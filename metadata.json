@@ -1,0 +1,7 @@
+{
+  "name": "Naija AI Tutor",
+  "description": "An AI-powered tutoring application for Nigerian students, providing personalized learning experiences through chat, quizzes, and subject-specific guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
